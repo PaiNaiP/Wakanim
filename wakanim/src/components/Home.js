@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Auth from './Auth';
+//import Auth from './Auth';
 import { Header } from './Header';
 import { HmComp } from './HmComp';
 //import { VideoPleer } from './VideoPleer';
